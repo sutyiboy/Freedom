@@ -1,0 +1,28 @@
+body {
+	display: block;
+  	width: 100%;
+  	height: auto;
+  	margin: 0px;
+  	padding: 0px;
+  	background: url('assets/freedom.jpg') no-repeat center center fixed;
+  	background-size: cover;
+	font-size: 100%;
+}
+
+.idezet {
+  	text-align: center;
+  	font-family: 'Julius Sans One', sans-serif;
+  	font-size: 2.5rem;
+  	margin-left: 2em;
+  	margin-right: 2em;
+  	margin-top: 104px;
+  	line-height: 1.5;
+}
+
+.szerzo {
+  	text-align: center;
+	font-family: 'Crimson Text', sans-serif;
+	font-size: 1.25rem;
+    font-style: italic;
+	margin-top: 44px;
+}
