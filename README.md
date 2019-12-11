@@ -1,2 +1,2 @@
-# simple-quote-page
+# simple-motivation-page
 első egyszerű repo
